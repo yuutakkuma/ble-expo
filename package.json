@@ -13,14 +13,17 @@
   "dependencies": {
     "expo": "~53.0.22",
     "expo-dev-client": "~5.2.4",
+    "expo-device": "~7.1.4",
     "expo-status-bar": "~2.2.3",
     "react": "19.0.0",
     "react-native": "0.79.6",
+    "react-native-base64": "^0.2.2",
     "react-native-ble-plx": "^3.5.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
     "@types/react": "~19.0.10",
+    "@types/react-native-base64": "^0.2.2",
     "typescript": "~5.8.3"
   },
   "private": true
